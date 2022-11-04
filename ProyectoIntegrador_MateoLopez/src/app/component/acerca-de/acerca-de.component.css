@@ -1,0 +1,118 @@
+div{
+    background-color: #a1b5cb;
+    text-align: center;
+    
+}
+/* etiqueta nombre*/
+#nombre{
+font-weight: bold;
+margin-top: 30%;
+}
+
+/* foto de perfil*/
+@media (min-width: 576px){
+    #fotoperfil{
+        position: absolute;
+        width: 17%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 1%;
+        top: 370px;
+    }
+}
+@media only screen and (min-width: 674px){
+    #fotoperfil{
+        position: absolute;
+        width: 17%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 1%;
+        top: 410px;
+}}
+@media only screen and (min-width: 760px){
+    #fotoperfil{
+        position: absolute;
+        width: 17%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 1%;
+        top: 490px;
+}}
+@media only screen and (min-width: 962px){
+    #fotoperfil{
+        position: absolute;
+        width: 17%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 1%;
+        top: 530px;
+}}
+@media only screen and (min-width: 1080px){
+    #fotoperfil{
+        position: absolute;
+        width: 17%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 1%;
+        top: 630px;
+}}
+@media only screen and (min-width: 1200px){
+    #fotoperfil{
+        position: absolute;
+        width: 17%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 1%;
+        top: 730px;
+}}
+@media (max-width: 575px){
+    #fotoperfil{
+        position: absolute;
+        width: 30%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 35%;
+        top: 350px;
+    }
+}
+@media (max-width: 485px){
+    #fotoperfil{
+        position: absolute;
+        width: 30%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 35%;
+        top: 290px;
+    }
+}
+@media (max-width: 399px){
+    #fotoperfil{
+        position: absolute;
+        width: 30%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 35%;
+        top: 350px;
+    }
+}
+@media (max-width: 281px){
+    #fotoperfil{
+        position: absolute;
+        width: 30%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 35%;
+        top: 300px;
+    }
+}
+@media (max-width: 249px){
+    #fotoperfil{
+        position: absolute;
+        width: 30%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 35%;
+        top: 340px;
+    }
+}
+
