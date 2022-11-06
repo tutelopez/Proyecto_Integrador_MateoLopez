@@ -1,9 +1,17 @@
 .row{
     padding: 20px;
+    
+    background-color: white;
+
+    color: black;
+
 }
 div{
-    background-color: #a1b5cb;
+    
 }
 h1, h3{
     display: inline;
+}
+h1{
+    color: #C70039;
 }

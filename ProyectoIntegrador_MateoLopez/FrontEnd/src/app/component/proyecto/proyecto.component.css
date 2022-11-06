@@ -1,6 +1,11 @@
 .row{
     padding: 20px;
-    background-color: #a1b5cb;
+    
+   background-color: white;
+    
+  
+
+    color: black;
 }
 .container{
     width: auto;
@@ -11,5 +16,8 @@ display: inline-block;
 text-align: justify;
 }
 .img-proyecto{
-    box-shadow: 10px 10px 30px #000000;
+    box-shadow: 10px 10px 30px #511845;
+}
+h1{
+    color: #C70039;
 }

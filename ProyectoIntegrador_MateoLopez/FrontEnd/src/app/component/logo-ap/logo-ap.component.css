@@ -1,13 +1,15 @@
 #logoAP{
-    width: 150px;
+    width: 120px;
+
 }
 img{
-    width: 50px;
+    width: 35px;
 }
 .container{
    display: flex;
    justify-content: space-between;
    align-items: center; 
+   
 }
 .redes{
     margin-right: 0.5em;
@@ -17,7 +19,8 @@ img{
     border-width: medium;
 }
 .redes img{
-    margin: 0.1em;
+    margin: 0.2em;
+    padding-right: 0.5em;
 }
 
 /* Vista phone  */

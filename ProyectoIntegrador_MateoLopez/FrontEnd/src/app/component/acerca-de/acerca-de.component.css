@@ -1,21 +1,31 @@
-div{
-    background-color: #a1b5cb;
-    text-align: center;
+.row{
     
+    background-color: white;
+    
+    
+
+}
+div{
+    
+    text-align: center;
+    color: black;
 }
 /* etiqueta nombre*/
 #nombre{
 font-weight: bold;
 margin-top: 30%;
+color: #900C3F;
 }
-
+h1{
+    color: #900C3F;
+}
 /* foto de perfil*/
 @media (min-width: 576px){
     #fotoperfil{
         position: absolute;
         width: 17%;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px grey;
+        box-shadow: 3px 3px 3px #511845;
         left: 1%;
         top: 370px;
     }

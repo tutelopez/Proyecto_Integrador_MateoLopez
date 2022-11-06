@@ -1,4 +1,12 @@
 .row{
-    background-color: #a1b5cb;
+   background-color: white;
+    
+
+
+
+    color: black;
     padding: 20px;
+}
+h1{
+    color: #C70039;
 }
