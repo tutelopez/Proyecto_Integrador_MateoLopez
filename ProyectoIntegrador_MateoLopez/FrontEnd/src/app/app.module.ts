@@ -13,6 +13,7 @@ import { HysComponent } from './component/hys/hys.component';
 import { NgCircleProgressModule } from 'ng-circle-progress';
 import { ProyectoComponent } from './component/proyecto/proyecto.component';
 import { FooterComponent } from './component/footer/footer.component';
+import { HttpClient, HttpClientModule } from '@angular/common/http';
 @NgModule({
   declarations: [
     AppComponent,
@@ -29,7 +30,8 @@ import { FooterComponent } from './component/footer/footer.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    NgCircleProgressModule.forRoot({})
+    NgCircleProgressModule.forRoot({}),
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
